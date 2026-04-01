@@ -362,4 +362,5 @@ Contributions are welcome: issues and pull requests. Please keep changes focused
 
 ## License
 
-Add a `LICENSE` file to the repository (for example MIT or Apache-2.0) so others know how they may use the project.
+This project is licensed under the [MIT License](LICENSE) — Copyright (c) 2026 SHIVA GANYARPWAR.
+   
